@@ -1,1 +1,1 @@
-this is chapter on e of Git 
+this is chapter one of Git repo practice
